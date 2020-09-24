@@ -10,16 +10,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="R9JN30DD2XJ" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -156,21 +155,37 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create Override onOptionsItemSelected(MenuItem item) in MainActivity, I return a Call to the Super Class Method and then Create the Intent for Launching the infoActivity. I used startActivity to launch the infoActivity.">
+      <created>1600971825039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600971825039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create Override onOptionsItemSelected(MenuItem item) in MainActivity, I return a Call to the Super Class Method and then Create the Intent for Launching the infoActivity. I used startActivity to launch the infoActivity." />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Override onOptionsItemSelected(MenuItem item) in MainActivity, I return a Call to the Super Class Method and then Create the Intent for Launching the infoActivity. I used startActivity to launch the infoActivity." />
   </component>
   <component name="WindowStateProjectService">
     <state x="110" y="120" width="1146" height="488" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1600966890167">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="110" y="120" width="1146" height="488" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1600966890167" />
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1600968616581">
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1600973025922">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1600968616581" />
+    <state x="488" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1600973025922" />
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600963030497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1600963030497" />
+    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1600971821676">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1600971821676" />
     <state width="1286" height="204" key="GridCell.Tab.0.bottom" timestamp="1600967561187">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -203,6 +218,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1286" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600967561187" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600971868229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1600971868229" />
     <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1600970176766">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
